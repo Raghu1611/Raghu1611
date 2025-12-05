@@ -6,9 +6,9 @@
 
 ## 🎯 Professional Summary
 
-I'm a **Full Stack Developer** from India with 1+ years of hands-on experience in web development, specializing in MERN stack (MongoDB, Express.js, React, Node.js) and modern cloud technologies. Passionate about building scalable, user-centric applications with clean architecture and best practices.
+I'm a **Full Stack Developer** from India with hands-on experience in web development, specializing in MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building scalable, user-centric applications with clean architecture and best practices.
 
-**Currently:** Building innovative web projects | **Learning:** Advanced system design patterns, Kubernetes, and microservices architecture
+**Currently:** Building innovative web projects | **Learning:** Advanced JavaScript patterns, system design, and optimization techniques
 
 ---
 
@@ -18,21 +18,18 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 - **React.js** | **Next.js** | Responsive Design | State Management (Redux, Context API)
 - HTML5 | CSS3 | Tailwind CSS | Material UI | Bootstrap
 - Performance Optimization | SEO | Accessibility (A11y)
+- Framer Motion & Animations
 
 ### Backend Development
 - **Node.js** | **Express.js** | RESTful APIs | Authentication (JWT, OAuth)
 - Database Design | MongoDB | Firebase | SQL basics
 - Middleware Development | Error Handling | API Documentation
-
-### DevOps & Cloud
-- **Docker** | **CI/CD Pipelines** (GitHub Actions, Jenkins)
-- **Azure** | Environment Configuration | Deployment Strategies
-- Git | GitHub | Version Control Best Practices
+- Real-time Communication (Socket.io)
 
 ### Languages & Tools
 - **JavaScript** (Intermediate/Advanced) | **Java** (Intermediate) | **Python** (Intermediate)
 - **VS Code** | **Git** | **Postman** | **Figma** (UI/UX basics)
-- **Azure DevOps** | CLI Tools | Linux Basics
+- Vite | NPM | Command Line Tools
 
 ---
 
@@ -44,7 +41,8 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 - Built a **responsive e-commerce platform** with product catalog, shopping cart, and order management
 - Implemented **JWT authentication** and role-based access control (User/Admin)
 - Integrated **real-time inventory management** with MongoDB
-- **Live:** [Freshmart Demo](https://raghu1611-freshmart.netlify.app) | **Repo:** [GitHub](https://github.com/Raghu1611/GroceryStore)
+- Features: Dark mode, advanced filtering, order tracking, admin dashboard
+- **Live:** [freshmart-client.vercel.app](https://freshmart-client.vercel.app/) | **Repo:** [GitHub](https://github.com/Raghu1611/freshmart)
 - **Key Metrics:** 100+ products | Fully responsive UI | Payment integration ready
 
 ### 2. **Chat Application** 💬
@@ -53,15 +51,17 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 - Developed **real-time messaging system** with Socket.io for live chat functionality
 - Implemented **user authentication** and **conversation history**
 - Built scalable backend to handle concurrent users
-- **Live:** [Chat App](https://raghu1611-chatapp.netlify.app) | **Repo:** [GitHub](https://github.com/Raghu1611/chatApp)
+- Features: User profiles, message notifications, online status
+- **Live:** [chat-app-client-murex-xi.vercel.app](https://chat-app-client-murex-xi.vercel.app/) | **Repo:** [GitHub](https://github.com/Raghu1611/chatApp)
 
 ### 3. **Resume Matcher** 📄
-**Role:** Full Stack Developer | **Stack:** React, Node.js, AI Integration
+**Role:** Full Stack Developer | **Stack:** React, Node.js, Google Gemini AI
 
 - Built an **AI-powered resume matching system** to analyze job-resume compatibility
-- Integrated **NLP algorithms** for smart matching
-- Created interactive dashboard for match analytics
-- **Live:** [Resume Matcher](https://raghu1611-resume-matcher.netlify.app) | **Repo:** [GitHub](https://github.com/Raghu1611/resume-matcher)
+- Integrated **Google Gemini API** for intelligent scoring and feedback
+- Created interactive dashboard for match analytics and suggestions
+- Features: ATS-friendly resume generation, real-time scoring, interview tips
+- **Live:** [resume-matcher-udii.vercel.app](https://resume-matcher-udii.vercel.app/) | **Repo:** [GitHub](https://github.com/Raghu1611/resume-matcher)
 
 ### 4. **Home Rental Platform** 🏠
 **Role:** Full Stack Developer | **Stack:** React, Node.js, Express, MongoDB
@@ -69,21 +69,21 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 - Full-featured **real estate rental management system**
 - Property listings, filters, and advanced search functionality
 - **Responsive design** for mobile and desktop
-- **Repo:** [GitHub](https://github.com/Raghu1611/HomeRental)
+- Repo: [GitHub](https://github.com/Raghu1611/HomeRental)
 
 ### 5. **Online Art Gallery** 🎨
 **Role:** Frontend Developer | **Stack:** React, Responsive Design
 
 - Digital art portfolio with **interactive gallery interface**
 - Smooth animations and **optimized image loading**
-- **Repo:** [GitHub](https://github.com/Raghu1611/online_Art-gallery)
+- Repo: [GitHub](https://github.com/Raghu1611/online_Art-gallery)
 
 ### 6. **Calculator Web App** 🧮
 **Role:** Frontend Developer | **Stack:** React, CSS
 
 - Built a **fully functional calculator** with clean UI
 - Advanced operations and responsive design
-- **Live:** [Calculator Demo](https://raghu1611-calculator.netlify.app) | **Repo:** [GitHub](https://github.com/Raghu1611/calculatorWebApp)
+- Repo: [GitHub](https://github.com/Raghu1611/calculatorWebApp)
 
 ---
 
@@ -98,10 +98,11 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 ## 🎓 Learning & Development
 
 - ✅ Full Stack Web Development (MERN)
-- ✅ RESTful API Design
-- ✅ Database Optimization & Indexing
-- 🔄 **Currently Learning:** Advanced JavaScript patterns, System Design, Microservices architecture
+- ✅ RESTful API Design & Best Practices
+- ✅ Database Optimization & Query Optimization
+- 🔄 **Currently Learning:** Advanced JavaScript patterns, System Design principles
 - 📚 Active on: LeetCode, HackerRank (Problem-solving)
+- 🤖 Exploring: AI integration in web applications (Google Gemini, APIs)
 
 ---
 
@@ -120,8 +121,8 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 ## 💼 Open to Opportunities
 
 ✨ **Actively seeking opportunities in:**
-- Full Stack Development (MERN/MEAN stack)
-- Backend Development (Node.js/Java)
+- Full Stack Development (MERN stack)
+- Backend Development (Node.js)
 - Frontend Development (React/Next.js)
 - Remote & On-site positions
 
@@ -132,10 +133,11 @@ I'm a **Full Stack Developer** from India with 1+ years of hands-on experience i
 ## 📈 Key Achievements
 
 - 🏆 Built 50+ projects from concept to deployment
-- 🚀 Deployed production-ready applications on Netlify, Vercel, and Azure
+- 🚀 Deployed production-ready applications on Vercel & GitHub Pages
 - 💻 Consistent GitHub contributions (100+ commits in past year)
 - 🔗 Strong GitHub presence with well-documented repositories
-- 📚 Continuous learner with focus on industry best practices
+- 📚 Self-taught developer with focus on industry best practices
+- 🤖 Hands-on experience with AI APIs and integrations
 
 ---
 
