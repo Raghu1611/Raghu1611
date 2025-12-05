@@ -113,7 +113,7 @@ I'm a **Full Stack Developer** from India with hands-on experience in web develo
 | **LinkedIn** | [Dhanunjai Raghu](https://www.linkedin.com/in/gonuguntla-dhanunjai-raghu-ram-62b957289) |
 | **GitHub** | [Raghu1611](https://github.com/Raghu1611) |
 | **Twitter** | [@raghu1611](https://twitter.com/raghu1611) |
-| **Portfolio** | [raghu1611.github.io](https://raghu1611.github.io) |
+| **Portfolio** | [Personal portfolio website built with React, Vite, and Tailwind CSS showcasing my Full Stack MERN projects and skills.]) |
 | **Email** | [Contact me](mailto:your-email@gmail.com) |
 
 ---
