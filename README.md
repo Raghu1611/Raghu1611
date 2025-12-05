@@ -114,7 +114,7 @@ I'm a **Full Stack Developer** from India with hands-on experience in web develo
 | **GitHub** | [Raghu1611](https://github.com/Raghu1611) |
 | **Twitter** | [@raghu1611](https://twitter.com/raghu1611) |
 | **Portfolio** | [https://portifolio-apry.vercel.app/](https://portifolio-apry.vercel.app/) 
-| **Email** | [Contact me](mailto:your-email@gmail.com) |
+| **Email** | [Contact me](mailto:2200032009cseh@gmail.com) |
 
 ---
 
